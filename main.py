@@ -15,9 +15,9 @@ from pyrogram.errors import FloodWait
 
 FayasNoushad = Client(
     "Country Info Bot",
-    bot_token = "1838208004:AAEIfateOCJEKLWBI2UXuy3XBW_RFn6NJiw",
-    api_id = 1733305,
-    api_hash = 'f423cffca6b5b7247b31b5b0df61f48d"
+    bot_token = "1384019653:AAE_wG1noMt_GwV4D0oTm08pCtT5PuI7zA4",
+    api_id = 1383845,
+    api_hash = '0e3d2c299cc3c5cc26c283cecd2eb97c"
 )
 
 START_TEXT = """
