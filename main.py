@@ -17,7 +17,7 @@ FayasNoushad = Client(
     "Country Info Bot",
     bot_token = "1384019653:AAE_wG1noMt_GwV4D0oTm08pCtT5PuI7zA4",
     api_id = 1383845,
-    api_hash = '0e3d2c299cc3c5cc26c283cecd2eb97c"
+    api_hash = "0e3d2c299cc3c5cc26c283cecd2eb97c"
 )
 
 START_TEXT = """
